@@ -22,6 +22,7 @@ export const DropdownMenuExample: React.FC<ExampleProps> = props => {
     return (
         <Example options={false} {...props}>
             <Card style={{ width: 250 }}>
+                {/* eslint-disable-next-line @blueprintjs/no-deprecated-components */}
                 <Popover content={<ExampleMenu />} fill={true} placement="bottom">
                     <Button
                         alignText={Alignment.START}

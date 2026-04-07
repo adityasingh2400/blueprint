@@ -194,6 +194,7 @@ export class Select<T> extends AbstractPureComponent<SelectProps<T>, SelectState
 
         // N.B. no need to set `fill` since that is unused with the `renderTarget` API
         return (
+            // eslint-disable-next-line @blueprintjs/no-deprecated-components
             <Popover
                 autoFocus={false}
                 enforceFocus={false}

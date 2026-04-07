@@ -36,6 +36,7 @@ export const TextExample: React.FC<ExampleProps> = props => {
                 &nbsp;
             </Text>
             <TextArea fill={true} onChange={handleChange} value={textContent} />
+            {/* eslint-disable-next-line @blueprintjs/no-deprecated-components */}
             <Popover
                 content={
                     <Menu className="docs-text-example-dropdown-menu">

@@ -217,6 +217,7 @@ export class MultiSelect<T> extends AbstractPureComponent<MultiSelectProps<T>, M
 
         // N.B. no need to set `popoverProps.fill` since that is unused with the `renderTarget` API
         return (
+            // eslint-disable-next-line @blueprintjs/no-deprecated-components
             <Popover
                 autoFocus={false}
                 canEscapeKeyClose={true}

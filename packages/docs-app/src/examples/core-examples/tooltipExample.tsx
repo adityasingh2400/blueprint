@@ -136,6 +136,7 @@ export const TooltipExample: React.FC<ExampleProps> = props => {
                 </Tooltip>
             </div>
             <br />
+            {/* eslint-disable-next-line @blueprintjs/no-deprecated-components */}
             <Popover
                 content={<H1>Popover!</H1>}
                 placement="right"

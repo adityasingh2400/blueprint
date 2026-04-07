@@ -155,6 +155,7 @@ const PopoverInputGroup: React.FC<InputGroupProps> = props => (
         {...props}
         placeholder="Add people or groups..."
         rightElement={
+            // eslint-disable-next-line @blueprintjs/no-deprecated-components
             <Popover
                 content={
                     <Menu>

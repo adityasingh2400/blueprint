@@ -223,6 +223,7 @@ export class ColumnHeaderCell extends AbstractPureComponent<ColumnHeaderCellProp
         return (
             <div className={classes}>
                 <div className={Classes.TABLE_TH_MENU_CONTAINER_BACKGROUND} />
+                {/* eslint-disable-next-line @blueprintjs/no-deprecated-components */}
                 <Popover
                     className={classNames(Classes.TABLE_TH_MENU, menuPopoverProps?.className)}
                     content={menuRenderer(index)}

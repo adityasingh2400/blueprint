@@ -182,6 +182,7 @@ export const NumericInputBasicExample: React.FC<ExampleProps> = props => {
 };
 
 const FilterMenu: React.FC = () => (
+    // eslint-disable-next-line @blueprintjs/no-deprecated-components
     <Popover
         position="bottom"
         content={
