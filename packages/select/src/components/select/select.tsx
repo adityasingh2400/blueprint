@@ -32,7 +32,7 @@ import {
     setRef,
     Utils,
 } from "@blueprintjs/core";
-import { Cross, Search } from "@blueprintjs/icons";
+import { CrossIcon, SearchIcon } from "@blueprintjs/icons";
 
 import { Classes, type ListItemsProps, type SelectPopoverProps } from "../../common";
 import { QueryList, type QueryListRendererProps } from "../query-list/queryList";
@@ -179,7 +179,7 @@ export class Select<T> extends AbstractPureComponent<SelectProps<T>, SelectState
                 aria-activedescendant={listProps.activeItemId}
                 aria-autocomplete="list"
                 aria-expanded={this.state.isOpen}
-                leftIcon={<Search />}
+                leftIcon={<SearchIcon />}
                 placeholder={placeholder}
                 rightElement={this.maybeRenderClearButton(listProps.query)}
                 role="combobox"
@@ -266,7 +266,7 @@ export class Select<T> extends AbstractPureComponent<SelectProps<T>, SelectState
         return query.length > 0 ? (
             <Button
                 aria-label="Clear filter query"
-                icon={<Cross />}
+                icon={<CrossIcon />}
                 onClick={this.resetQuery}
                 title="Clear filter query"
                 variant="minimal"

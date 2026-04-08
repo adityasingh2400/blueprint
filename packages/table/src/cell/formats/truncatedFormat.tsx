@@ -18,7 +18,7 @@ import classNames from "classnames";
 import { PureComponent } from "react";
 
 import { DISPLAYNAME_PREFIX, Popover, type Props } from "@blueprintjs/core";
-import { More } from "@blueprintjs/icons";
+import { MoreIcon } from "@blueprintjs/icons";
 
 import * as Classes from "../../common/classes";
 import { Utils } from "../../common/utils";
@@ -240,7 +240,7 @@ export class TruncatedFormat extends PureComponent<TruncatedFormatProps, Truncat
                     placement="bottom"
                     rootBoundary="document"
                 >
-                    <More />
+                    <MoreIcon />
                 </Popover>
             );
         } else {
@@ -248,7 +248,7 @@ export class TruncatedFormat extends PureComponent<TruncatedFormatProps, Truncat
             return (
                 // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-static-element-interactions
                 <span className={Classes.TABLE_TRUNCATED_POPOVER_TARGET} onClick={this.handlePopoverOpen}>
-                    <More />
+                    <MoreIcon />
                 </span>
             );
         }
