@@ -26,6 +26,7 @@ const outlinedResourcesDir = join(iconResourcesDir, "next/outlined");
 const filledResourcesDir = join(iconResourcesDir, "next/filled");
 const generatedNextDir = resolve(import.meta.dirname, "../src/next/generated");
 const generatedNextComponentsDir = join(generatedNextDir, "components");
+const generatedNextPathsDir = join(generatedNextDir, "paths");
 const iconsNextManifestPath = resolve(import.meta.dirname, "../icons-next.json");
 
 /**
@@ -94,7 +95,9 @@ export default ${exportName};
 
 console.info("Clearing existing next icon modules...");
 rmSync(generatedNextComponentsDir, { force: true, recursive: true });
+rmSync(generatedNextPathsDir, { force: true, recursive: true });
 mkdirSync(generatedNextComponentsDir, { recursive: true });
+mkdirSync(generatedNextPathsDir, { recursive: true });
 
 const outlinedIconNames = [...getIconNamesInDirectory(outlinedResourcesDir)].sort();
 const filledIconNames = [...getIconNamesInDirectory(filledResourcesDir)].sort();
@@ -113,9 +116,13 @@ console.info(
 );
 /** @type {string[]} */
 const componentIndexLines = [];
+/** @type {string[]} */
+const pathIndexLines = [];
 
 for (const iconName of outlinedIconNames) {
     const outlinedPaths = extractPathsFromNextResourceSvg("outlined", iconName);
+
+    // Generate component module
     const outlinedFileName = `${iconName}.tsx`;
     writeFileSync(
         join(generatedNextComponentsDir, outlinedFileName),
@@ -123,22 +130,44 @@ for (const iconName of outlinedIconNames) {
     );
     componentIndexLines.push(`export { ${pascalCase(iconName)}Icon } from "./${iconName}";`);
 
+    // Generate path module (outlined)
+    writeFileSync(join(generatedNextPathsDir, `${iconName}.ts`), `export default ${JSON.stringify(outlinedPaths)};\n`);
+    pathIndexLines.push(`export { default as ${pascalCase(iconName)} } from "./${iconName}";`);
+
     if (filledIconNameSet.has(iconName)) {
         const filledPaths = extractPathsFromNextResourceSvg("filled", iconName);
+
+        // Generate component module (filled)
         const filledFileName = `${iconName}-filled.tsx`;
         writeFileSync(
             join(generatedNextComponentsDir, filledFileName),
             generateNextComponentSource(iconName, "filled", filledPaths),
         );
         componentIndexLines.push(`export { ${pascalCase(iconName)}FilledIcon } from "./${iconName}-filled";`);
+
+        // Generate path module (filled)
+        writeFileSync(
+            join(generatedNextPathsDir, `${iconName}-filled.ts`),
+            `export default ${JSON.stringify(filledPaths)};\n`,
+        );
+        pathIndexLines.push(`export { default as ${pascalCase(iconName)}Filled } from "./${iconName}-filled";`);
     }
 }
 
 writeFileSync(join(generatedNextComponentsDir, "index.ts"), `${componentIndexLines.join("\n")}\n`);
+writeFileSync(join(generatedNextPathsDir, "index.ts"), `${pathIndexLines.join("\n")}\n`);
 
 writeFileSync(
     join(generatedNextDir, "index.ts"),
-    `export * from "../../index";\nexport * from "./components";\nexport { nextIconManifest, type NextIconName, type NextIconManifestEntry } from "./manifest";\n`,
+    [
+        `export * from "../../index";`,
+        `export * from "./components";`,
+        `export { nextIconManifest, type NextIconName, type NextIconManifestEntry } from "./manifest";`,
+        `export { IconsNext, type NextIconVariant, type NextIconLoaderOptions } from "../iconLoaderNext";`,
+        `export { type NextIconPathsLoader } from "../pathsLoader";`,
+        `export { SvgIconContainerNext, type SvgIconContainerNextComponent, type SvgIconContainerNextProps } from "../svgIconContainerNext";`,
+        "",
+    ].join("\n"),
 );
 
 const iconsMetadataMap = new Map(iconsMetadata.map(icon => [icon.iconName, icon]));
