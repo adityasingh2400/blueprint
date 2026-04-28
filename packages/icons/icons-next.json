@@ -1,6 +1,6 @@
 [
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "add",
         "tags": "circle, plus, symbol, join, medical, include, add item, new item"
     },
@@ -55,7 +55,7 @@
         "tags": "table, attach, join"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "add-tile",
         "tags": "plus, layout, module, grid, card, new, create, panel"
     },
@@ -65,7 +65,7 @@
         "tags": "list, plus, text, add, create, add item, add to list, add section, add page"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "add-to-folder",
         "tags": "file, portfolio, case, import, open"
     },
@@ -75,7 +75,7 @@
         "tags": "target, aim, point, crosshair, mark"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "airplane",
         "tags": "flight, jet, travel, trip, transport, take off, fly, aircraft, aerospace, airport"
     },
@@ -100,37 +100,37 @@
         "tags": "text flow, alignment, justification, range, flush right"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "alignment-bottom",
         "tags": "layout, position, bars"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "alignment-horizontal-center",
         "tags": "layout, position, drone, airplane, satellite, statistics, shadow analysis"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "alignment-left",
         "tags": "layout, position"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "alignment-right",
         "tags": "layout, position"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "alignment-top",
         "tags": "layout, position"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "alignment-vertical-center",
         "tags": "layout, position, bars, biplane"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "ammunition",
         "tags": "bullets, munition, rockets"
     },
@@ -140,12 +140,12 @@
         "tags": "link, ship, navy, boat, sea, ocean, attach, sink"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "annotation",
         "tags": "note, comment, edit, write"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "announcement",
         "tags": "speaker, megaphone, loud, noise"
     },
@@ -170,12 +170,12 @@
         "tags": "application, browser, windows, platforms, pages, duplicate, copy, page, website"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "archive",
         "tags": "compress, compression, zip, bundle, download, file"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "area-of-interest",
         "tags": "NAI, named area, marked, marker, location, region, geo, tag, locate, point, map"
     },
@@ -305,17 +305,17 @@
         "tags": "rewind, second, control, video"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "badge",
         "tags": "emblem, symbol, identification, insignia, marker, protect, privacy, shield, law enforcement, police, sheriff, rule enforcement, security"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "ban-circle",
         "tags": "circle, refusal, do not enter, inaccessible, screw head, flathead, slow, null, subtract, minus, delete"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "bank-account",
         "tags": "money, finance, funds, piggy bank"
     },
@@ -330,12 +330,12 @@
         "tags": "data, type, number, numeric, format"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "block-promote",
         "tags": "release, channel, upgrade, line, arrow, direction, next, forward"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "blocked-person",
         "tags": "human, male, female, character, customer, individual, social, banned, prohibited"
     },
@@ -345,32 +345,32 @@
         "tags": "typography, text, font style, weight"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "book",
         "tags": "pages, album, brochure, manual, bookmark, notebook, journal, documentation, reading, instructions, file, cathedral"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "bookmark",
         "tags": "marker, holder, section, identifier, favorites, tag, save"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "box",
         "tags": "folder, carton, pack, archive, file, inbox, package, attachment"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "branch-locked",
         "tags": "github, repository, code, command, version control, fork"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "branch-unlocked",
         "tags": "github, repository, code, command, version control, fork"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "briefcase",
         "tags": "suitcase, business, case, baggage, work, kit, toolbox"
     },
@@ -390,7 +390,7 @@
         "tags": "currency, money, sign, pound, uk, gbp"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "bug",
         "tags": "issue, error, broken, insect, code, fail, software"
     },
@@ -400,7 +400,7 @@
         "tags": "vehicle, car, transportation, dune, offroad"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "build",
         "tags": "hammer, tool, force, work"
     },
@@ -410,7 +410,7 @@
         "tags": "geography, location, position, map, direction, reference, point, target"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "calculator",
         "tags": "math, device, value, numbers, total"
     },
@@ -420,7 +420,7 @@
         "tags": "timeframe, agenda, diary, day, week, month"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "camera",
         "tags": "photograph, picture, video, photo"
     },
@@ -445,7 +445,7 @@
         "tags": "direction, order, up, chevron, triangle, arrow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cargo-ship",
         "tags": "transportation, freight, boat, cruise, yacht, supply, supply chain, container, shipping, carrier, container ship"
     },
@@ -465,7 +465,7 @@
         "tags": "arrow, increase, up, line, bar, graph, trend, growth, increasing trend, trendline, upward"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "chat",
         "tags": "speech, conversation, communication, talk, comments, dialogue, comment"
     },
@@ -500,7 +500,7 @@
         "tags": "arrow, direction, collapse, see here, exponent"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "circle",
         "tags": "radial, empty, area, radius, selection"
     },
@@ -510,12 +510,12 @@
         "tags": "direction, south, below, download, save to device, keep offline, next"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "circle-arrow-left",
         "tags": "direction, west, return, backspace, back, go left"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "circle-arrow-right",
         "tags": "direction, east, go, next, submit, right arrow"
     },
@@ -535,7 +535,7 @@
         "tags": "quotation, marks, excerpt, quote, end quote, grammar, punctuation"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "clean",
         "tags": "correct, cleanse, clear, purify, stars, sparkle, twinkle"
     },
@@ -545,37 +545,37 @@
         "tags": "screenshot, segment, edit, point, target, circle, bullet, pointer, square, center, expand, dot"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "clipboard",
         "tags": "notepad, notebook, copy, transfer, storage, note"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "clipboard-file",
         "tags": "paste, attach, file"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cloud",
         "tags": "file, storage, weather, sky"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cloud-download",
         "tags": "file, storage, transfer"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cloud-server",
         "tags": "storage, data, connectivity, database"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cloud-tick",
         "tags": "file, storage, transfer, save"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cloud-upload",
         "tags": "file, storage, transfer, export"
     },
@@ -585,12 +585,12 @@
         "tags": "markup, language, tag"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "code-block",
         "tags": "code, markup, language, tag, lego piece, game, code repositories, builder, lego"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cog",
         "tags": "settings, circle, wheel, mechanical, tools, gear"
     },
@@ -600,7 +600,7 @@
         "tags": "arrows, chevron, reduce, smash, in between, up down"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "color-fill",
         "tags": "bucket, pour, drink"
     },
@@ -610,7 +610,7 @@
         "tags": "layout, arrangement, sidebar, side menu, side bar, panel, gui, table, section, columns, tables"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "comment",
         "tags": "statement, discussion, opinion, view, chat, message, typing"
     },
@@ -620,17 +620,17 @@
         "tags": "analogy, layout, contrast, compare, check list, split"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "compass",
         "tags": "map, direction, north south east west, magnetic poles, navigation"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "compressed",
         "tags": "folder, carton, pack, shrink, wrap, shorten, download, drop"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "confirm",
         "tags": "circle, tick, confirmation, acceptance, approval, authorization, submitted, done"
     },
@@ -650,7 +650,7 @@
         "tags": "blockage, sign, road, stop"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "contrast",
         "tags": "color, brightness, settings, light, dark, mode, theme, cog"
     },
@@ -660,7 +660,7 @@
         "tags": "squares, layout, filled layout, filled module, module, page, dashboard, workshop, modular, application, window, app, tile, tessellate, task view"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "credit-card",
         "tags": "payment, bank, transaction"
     },
@@ -675,27 +675,27 @@
         "tags": "cross mark, fail, delete, no, close, remove, not, available, unavailable, wrong, incorrect, cancel"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cross-circle",
         "tags": "circle, cross mark, fail, delete, no, close, remove, not, available, unavailable, wrong, incorrect, cancel"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "crown",
         "tags": "hat, role, level, permission, king, owner"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "css-style",
         "tags": "css, style, file, format"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cube",
         "tags": "shape, 3d, object, box, package, container"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cube-add",
         "tags": "shape, 3d, object, box, create"
     },
@@ -710,17 +710,17 @@
         "tags": "shape, 3d, object, box, layers, container, view"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cube-edit",
         "tags": "shape, 3d, object, box, module, block, geometry, change, modify, update"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cube-remove",
         "tags": "shape, 3d, object, delete cube, delete object, minus, box, deselect, unselect"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cubes",
         "tags": "module, blocks, shapes, hexagons, stack, geometry"
     },
@@ -735,7 +735,7 @@
         "tags": "graph, diagram, analysis, model, regression"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "cut",
         "tags": "scissors"
     },
@@ -745,37 +745,37 @@
         "tags": "bike, cyclist, biker, rider, transportation, crossing, pedestrian, bicyclist, cycling, motorcycle"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "dashboard",
         "tags": "panel, control, gauge, instrument, meter, speedometer, speed, dial, indicator"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "data-cloud",
         "tags": "data, source, data source, sync, cloud"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "data-connection",
         "tags": "connectivity, database, status, health, blank"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "data-lineage",
         "tags": "flow, rectangle, graph, downstream, upstream, propagation, hierarchy, merge, unify, integrate, link, relationship, model"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "data-search",
         "tags": "storage, data, dataset, search, query"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "data-sync",
         "tags": "sync, stack, storage, can, data, source, dataset, data source, database"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "database",
         "tags": "stack, storage, can, data, source, dataset, data source"
     },
@@ -805,12 +805,12 @@
         "tags": "child, hierarchy, tree, node, nested, branch, relationship, lineage, arrow, sub"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "desktop",
         "tags": "screen, monitor, display, computer, computer screen"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "detection",
         "tags": "model, ml, scan"
     },
@@ -820,22 +820,22 @@
         "tags": "doctor, science, heart, stethoscope, medical, examination, medicine, hospital, treatment"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "diagram-tree",
         "tags": "organization, chart, org, hierarchy, relationship, reference"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "direction-left",
         "tags": "pointer, west, direction, arrow left, back, pointer left, aircraft, plane"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "direction-right",
         "tags": "pointer, east, arrow, bullet, tag, send, location, aircraft, plane"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "disable",
         "tags": "off, circle, remove, do not enter, no, anti, cancel, exit, no selection"
     },
@@ -845,27 +845,27 @@
         "tags": "math, symbol, mathematical, equations, expression, formula, division sign"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "document",
         "tags": "paper, page, file"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "document-code",
         "tags": "code, script, programming, software, development, repository"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "document-locked",
         "tags": "file, secure, password, lock, protect"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "document-open",
         "tags": "paper, access, arrow, file, import"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "document-share",
         "tags": "paper, send, link new, open in new tab, open in new window, paper with arrow, export"
     },
@@ -875,7 +875,7 @@
         "tags": "currency, money, sign, usd"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "dot",
         "tags": "point, circle, small"
     },
@@ -910,12 +910,12 @@
         "tags": "arrows, multiple, direction, skip up, increase, power up, upload, swipe up, double, roof, collapse, upwards"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "doughnut-chart",
         "tags": "circle, section, part, graph, quarter, pie chart, storage space, usage, statistics, donut, visualization"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "download",
         "tags": "circle, arrow, down, downloading"
     },
@@ -930,7 +930,7 @@
         "tags": "move, pull, array, dots, spread"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "draw",
         "tags": "selection, area, highlight, sketch, ink, write, fountain pen, edit, pointer, dropper, pen"
     },
@@ -955,7 +955,7 @@
         "tags": "application, layout, user-interface, UI, exit, leave, shift, left, enter, go back"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "drive-time",
         "tags": "car, automobile, vehicle, van, drive, ride, distance, navigation, directions"
     },
@@ -970,22 +970,22 @@
         "tags": "drone, uav, aircraft, flying, vehicle"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "duplicate",
         "tags": "copy, square, two, copies, stack, photocopy, boxes, documents, multiple pages, square stack, depth order"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "edit",
         "tags": "annotate, pen, modify, draw, signature"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "eject",
         "tags": "player, media, controls, digital, analogue, film, audio, video"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "emoji",
         "tags": "message, chat, reaction, happy, smile, grin, smiley, happy face, excitement"
     },
@@ -995,17 +995,17 @@
         "tags": "footnote, notebook, note, reference, text, citation"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "endorsed",
         "tags": "tick, mark, sign, ok, approved, success, complete, verified, stamp of approval, check, agree"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "engagement",
         "tags": "interaction, person, communication, chat, activity, participation, social, audience, outreach, user"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "envelope",
         "tags": "post, mail, send, email"
     },
@@ -1015,12 +1015,12 @@
         "tags": "mathematical, equations, expression, formula, fence, lines, parallel"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "eraser",
         "tags": "delete, remove"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "error",
         "tags": "notification, failure, circle, exclamation mark, sign, warning, attention"
     },
@@ -1035,7 +1035,7 @@
         "tags": "construction, dig, machine, vehicle, work"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "exchange",
         "tags": "arrows, direction, network, swap, transfer, transaction, repeat, shuffle, cycle"
     },
@@ -1050,7 +1050,7 @@
         "tags": "arrows, chevron, enlarge, stretch, flex, volume"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "explain",
         "tags": "explain, ai, aip, describe"
     },
@@ -1060,17 +1060,17 @@
         "tags": "arrow, up, exporting, output, move out, upload, send"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "eye-off",
         "tags": "visibility, hide, unseen, hidden"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "eye-on",
         "tags": "visibility, show, visible, check, verify, accept, accessibility, vision, verified, seen, viewed"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "eye-open",
         "tags": "show, visible, clear, view, vision, see, review, check"
     },
@@ -1095,62 +1095,62 @@
         "tags": "rss, tick, check, wifi, signal, connection"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "fighter-jet",
         "tags": "shape, 3d, object, vehicle, military, flight, jet, fly, aircraft, aerospace"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "film",
         "tags": "movie, cinema, theatre, scroll, ladder"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter",
         "tags": "filtering, funnel, tube, pipe"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter-keep",
         "tags": "filtering, funnel, tube, pipe, retain, stay, complete, finished, applied"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter-list",
         "tags": "filtering, funnel, tube, pipe"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter-open",
         "tags": "filtering, funnel, tube, pipe, expand output"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter-remove",
         "tags": "filtering, funnel, tube, pipe, delete, detach, discard, dismiss, close drilldown"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter-sort-asc",
         "tags": "sort, filter, ascending"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "filter-sort-desc",
         "tags": "sort, filter, descending"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flag",
         "tags": "map, position, country, nationality, pole"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flame",
         "tags": "fire, trendy, hot, popular"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flash",
         "tags": "light, contrast, photograph, picture, sun, star, illuminate, examine, brighten, brightness, exposure"
     },
@@ -1160,72 +1160,72 @@
         "tags": "number, double, decimal, version, first, original"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "floppy-disk",
         "tags": "save, disk, save as, disk drive, disc drive"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flow-branch",
         "tags": "workflow, edge, node, fork, arrows, split, two-way, decision point, split path"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flow-end",
         "tags": "workflow, edge, node, complete, finished, final, last, input, insert, relocate, right, endpoint, arrow, point, direction, destination, arrival, go to"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flow-linear",
         "tags": "workflow, edge, node, step, event, timeline, directed edge, right, advance, route, valve"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flow-review",
         "tags": "workflow, edge, node, reverse, expand, widen, tie fighter, split"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flow-review-branch",
         "tags": "workflow, edge, node, fork, axis, graph, outward, away, location, relationship, links, unknown, grappling hook"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "flows",
         "tags": "arrows, direction, links, proceed, link, leads to, flow, connection, processing, moving to, connect, pipeline"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "folder-close",
         "tags": "file, portfolio, case, folder, directory, files"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "folder-new",
         "tags": "create, group, organize, sort, add"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "folder-open",
         "tags": "file, portfolio, case, files, folder"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "folder-shared",
         "tags": "file, portfolio, case, email, upload, save, export, copy, folder"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "folder-shared-open",
         "tags": "file, portfolio, case, open, browse, folder, export, open folder"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "follower",
         "tags": "person, human, male, female, character, customer, individual, social, share, add, send, move, delegate, move person, next"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "following",
         "tags": "person, human, male, female, character, customer, individual, social, receive, message, request"
     },
@@ -1260,17 +1260,17 @@
         "tags": "command, connection, connect, link, application, flow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "fuel",
         "tags": "gas, refuel, gasoline tank"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "full-circle",
         "tags": "dot, point, orb, filled"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "full-stacked-chart",
         "tags": "graph, bar, cargo, inventory, bricks, wall, chimneys, shipping container, adjust, waterfall"
     },
@@ -1295,17 +1295,17 @@
         "tags": "bar chart, schedule, project, step chart, stairs, waterfall"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "generate",
         "tags": "generate, ai, aip, create"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "geofence",
         "tags": "region, insert, pushback, click object, enter, focus, perimeter, area, polygon, shape"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "geolocation",
         "tags": "geography, location, position, map, direction, arrow, cursor, pointer, mouse"
     },
@@ -1315,62 +1315,62 @@
         "tags": "search, exploration, topography, geography, location, area, magnifying glass, globe"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "geotime",
         "tags": "geo, time, date, location, spatial"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "gift-box",
         "tags": "gift, box, present, ribbon"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-branch",
         "tags": "github, repository, code, command, version control, fork"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-commit",
         "tags": "github, repository, code, command, node, link"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-merge",
         "tags": "github, repository, code, command, branch, version control"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-new-branch",
         "tags": "github, repository, code, command, pull request, pathway, branch, create, fork"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-pull",
         "tags": "github, repository, code, command, pull request, branch, insert, version control, merge"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-push",
         "tags": "github, repository, code, command, upload, export"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-rebase",
         "tags": "github, repository, code, command, branch, version control"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "git-repo",
         "tags": "github, repository, code, command, bookmark, saved page, notepad, book, dictionary, notebook, file, dossier"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "glass",
         "tags": "glassware, drink, cheers, cup, wine, chalice, goblet"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "globe",
         "tags": "planet, earth, map, location, geography, world"
     },
@@ -1385,12 +1385,12 @@
         "tags": "planet, earth, map, world, internet, website, create, plus"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "graph",
         "tags": "diagram, chemistry, molecule, directed graph, linked entities, relational elements"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "graph-remove",
         "tags": "circle, remove, delete, clear, graph, unavailable, delete object, block"
     },
@@ -1410,52 +1410,52 @@
         "tags": "layout, arrangement, hashtag, pattern, patch"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "grid-view",
         "tags": "layout, arrangement, windows, boxes, squares, blocks, packing"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "group-item",
         "tags": "group, widget, item"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "group-objects",
         "tags": "group, alignment, organization, arrangement, classification, objects, toggle, toggle button, radio buttons, lights, poll, pig, radio button, switch, two dots, plug, snout, adapter"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "grouped-bar-chart",
         "tags": "graph, plot"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hand",
         "tags": "gesture, fingers, raise hand"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hand-down",
         "tags": "gesture, direction, point, pointer, pointing, finger, select"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hand-left",
         "tags": "gesture, direction, point, pointer, pointing, finger, this, here, click"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hand-right",
         "tags": "gesture, direction, point, pointer, pointing, finger, tip, attention"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hand-up",
         "tags": "gesture, direction, point, pointer, pointing, finger, forefinger, click, cursor"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hat",
         "tags": "head, clothing, cap, fedora, role, level, permission, detective, inspector"
     },
@@ -1480,17 +1480,17 @@
         "tags": "paragraph styling, formatting, hydrogen, chemistry, diatomic molecule, heading"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "headset",
         "tags": "headphones, call, communication, audio"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "heart",
         "tags": "love, like, organ, human, feelings"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "heart-broken",
         "tags": "love, like, organ, human, feelings, split, torn, failed, health, heartbreak, sadness, heart attack, unhealthy"
     },
@@ -1500,27 +1500,27 @@
         "tags": "chart, map, squares, black and white"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "heatmap",
         "tags": "hierarchy, matrix, heat map, bubbles, circles, graph, splash, blob, ideas"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "helicopter",
         "tags": "chopper, fly, aircraft, evacuation, rescue"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "help",
         "tags": "question mark, aid, advice, circle, question"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "helper-management",
         "tags": "square, widget, graph, chart, data, document, blocks, spreadsheet, format, right bottom justify, loading, snake"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hexagon",
         "tags": "entity, shape, geometry, polygon"
     },
@@ -1535,7 +1535,7 @@
         "tags": "power pole, electricity, utilities"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "highlight",
         "tags": "select, text, marker, pen"
     },
@@ -1545,12 +1545,12 @@
         "tags": "past, reverse, circle, arrow, out of date, refresh, clock, undo, rollback, rewind, revert, roll back, reverse time, counter"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "home",
         "tags": "house, building, destination"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "horizontal-bar-chart",
         "tags": "graph, diagram, histogram"
     },
@@ -1565,7 +1565,7 @@
         "tags": "graph, histogram, increase, descending, sort, decreasing, list"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "horizontal-distribution",
         "tags": "alignment, layout, position, lane, absolute, center, vertical, corridor, road, vehicle"
     },
@@ -1575,12 +1575,12 @@
         "tags": "space, gap, in between, push out, expand, code, reformat, view source, divide, separate"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "hurricane",
         "tags": "storm, cyclone, typhoon, tropical storm, weather, forecast, swirl, fast, razor, saw, spin, whirl pool"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "id-number",
         "tags": "identification, person, document, contact, business card, profile, identity, badge, credential, certification"
     },
@@ -1600,32 +1600,32 @@
         "tags": "arrow, down, importing, download"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "inbox",
         "tags": "folder, mail, file, message, drawer, container"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "inbox-filtered",
         "tags": "folder, mail, file, message, funnel, mailbox"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "inbox-geo",
         "tags": "folder, mail, file, message, geography, location, area, globe, save map, save location, add location, international"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "inbox-search",
         "tags": "folder, mail, file, message, inspection, exploration, magnifying glass, files"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "inbox-update",
         "tags": "folder, mail, file, message, notifications, warning, new email"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "info-sign",
         "tags": "notification, information, circle, message, sign, info, tooltip"
     },
@@ -1650,12 +1650,12 @@
         "tags": "input, right, arrow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "insert",
         "tags": "square, plus, add, embed, include, inject"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "intelligence",
         "tags": "intelligence, intel, observe, watch, capture, humint"
     },
@@ -1675,12 +1675,12 @@
         "tags": "circle, notification, failure, exclamation mark, sign, problem, warning, danger, notice, error"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "issue-closed",
         "tags": "circle, notification, failure, exclamation mark, sign, problem, alert, verified, acknowledged, completed, resolved, check, urgent, important, view warning"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "issue-new",
         "tags": "circle, notification, failure, exclamation mark, sign, problem, report, malfunction, alert, info"
     },
@@ -1695,12 +1695,12 @@
         "tags": "combine, attach, connect, link, unite, merge data, excel, calendars, dataframe, tables, sheets, intersection"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "key",
         "tags": "lock, unlock, open, security, password, access"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "key-backspace",
         "tags": "interface, shortcuts, buttons, delete, back"
     },
@@ -1715,7 +1715,7 @@
         "tags": "interface, shortcuts, buttons, this, chevron-up, up, karat, caret, up arrow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "key-delete",
         "tags": "interface, shortcuts, buttons, backspace, close, remove"
     },
@@ -1735,7 +1735,7 @@
         "tags": "interface, shortcuts, buttons, branch, fork, switch"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "key-shift",
         "tags": "interface, shortcuts, buttons, look up, look at this"
     },
@@ -1745,12 +1745,12 @@
         "tags": "interface, shortcuts, buttons, both ways, two way, push out"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "known-vehicle",
         "tags": "car, automobile, van, drive, ride, distance, navigation, directions, approved, checked"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "lab-test",
         "tags": "science, beaker, chemistry, mixing, scientist, test tube, flask, formula, drug"
     },
@@ -1760,7 +1760,7 @@
         "tags": "text, tag, ticket, file, document, mail, print, paper"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layer",
         "tags": "zone, level, diamond, point, link, connect"
     },
@@ -1775,117 +1775,117 @@
         "tags": "levels, stack, cards"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout",
         "tags": "presentation, arrangement, graph"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-auto",
         "tags": "layout, presentation, arrangement, auto, graph, grid, covid, link, network, snowflake, atom, connection"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-balloon",
         "tags": "layout, presentation, arrangement, graph"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-bottom-row-three-tiles",
         "tags": "presentation, arrangement, layout, three, grid, rows"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-bottom-row-two-tiles",
         "tags": "presentation, arrangement, layout, two, grid, rows"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-circle",
         "tags": "layout, presentation, arrangement, circle, graph, grid"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-grid",
         "tags": "layout, presentation, arrangement, grid, graph, grid, module, app, arrange"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-group-by",
         "tags": "layout, presentation, arrangement, group by, graph, grid, scatter, dots"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-hierarchy",
         "tags": "layout, presentation, arrangement, hierarchy, order, graph, grid, network, links, connector, integration, lineage, tree"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-left-column-three-tiles",
         "tags": "presentation, arrangement, layout, three, grid, columns"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-left-column-two-tiles",
         "tags": "presentation, arrangement, layout, two, grid, columns"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-linear",
         "tags": "dot, three, dots, connection, line, pipeline, line of circles, beads, more, daisy, connect, graph"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-right-column-three-tiles",
         "tags": "presentation, arrangement, layout, three, grid, columns"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-right-column-two-tiles",
         "tags": "presentation, arrangement, layout, two, grid, columns"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-skew-grid",
         "tags": "layout, presentation, arrangement, skew, graph, grid, eight, dots, nodes, pot holes"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-sorted-clusters",
         "tags": "layout, presentation, arrangement, graph, grid, play button, data points, array, fleet, collection"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-three-columns",
         "tags": "presentation, arrangement, layout, three, grid, columns"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-three-rows",
         "tags": "presentation, arrangement, layout, three, grid, rows"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-top-row-three-tiles",
         "tags": "presentation, arrangement, layout, three, grid, rows"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-top-row-two-tiles",
         "tags": "presentation, arrangement, layout, two, grid, rows"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-two-columns",
         "tags": "presentation, arrangement, layout, two, grid, columns"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "layout-two-rows",
         "tags": "presentation, arrangement, layout, two, grid, rows"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "learning",
         "tags": "tutorial, teach, graduate, cap, clothing, graduation, hat, degree, education, study"
     },
@@ -1910,17 +1910,17 @@
         "tags": "mathematical, equations, expression, formula, compare, comparison, lte"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "lifesaver",
         "tags": "help, support, aid, advice, poker, casino, chip, circle"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "lightbulb",
         "tags": "idea, glow, lamp, light"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "lightning",
         "tags": "thunder, bolt, strike, weather, forecast, quick, flash, immediate, electricity, power, high voltage, spark"
     },
@@ -1945,17 +1945,17 @@
         "tags": "layout, arrangement, four lines, table, two, article, data, grid"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "list-detail-view",
         "tags": "agenda, four lines, table, info, additional options, menu, compare"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "locate",
         "tags": "target, location, destination, mark, map, area, zoom, identify, crosshairs"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "lock",
         "tags": "engage, connect, join, close"
     },
@@ -1980,42 +1980,42 @@
         "tags": "power pole, electricity, utilities"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "manual",
         "tags": "guide, instruction, documentation, docs, book, open"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "manually-entered-data",
         "tags": "input, human, writer, paragraph, write, notebook, pencil, edit, text"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "many-to-many",
         "tags": "object, relation, ontology, graph, cross, nodes"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "many-to-one",
         "tags": "object, relation, ontology, link, connect, share, merge, flow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "map",
         "tags": "location, position, geography, world"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "map-create",
         "tags": "map, location, position, geography, world, new brochure, new pamphlet, navigation, travel, gps"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "map-marker",
         "tags": "pin, map, location, position, geography, world, point"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "markdown",
         "tags": "markdown, text"
     },
@@ -2025,7 +2025,7 @@
         "tags": "arrows, increase, bigger, expand, opposite, diagonal, bidirectional"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "media",
         "tags": "audio, video, picture, image, drawing, illustration, landscape, photo"
     },
@@ -2050,12 +2050,12 @@
         "tags": "layout, change, two, combine, unite, conflict, union, box, closed, contract, join, close, reconcile"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "merge-links",
         "tags": "merge, combine, consolidate, jointment, links, switch, button, toggle, kayak, seating, battle droid, outlet, connector"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "microphone",
         "tags": "microphone, mic, speaker"
     },
@@ -2070,12 +2070,12 @@
         "tags": "sign, remove, minimize, zoom out, line, dash, space, hyphen, emdash, horizonal thin line"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "mobile-phone",
         "tags": "cellular, device, call, cell, tablet"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "mobile-video",
         "tags": "film, broadcast, television, video, recording, video call, camera, camcorder"
     },
@@ -2090,12 +2090,12 @@
         "tags": "application, layout, user-interface, UI, window, app, dialog"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "model",
         "tags": "model, ml"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "moon",
         "tags": "night, sky, dark, sleep, do not disturb, night time, crescent"
     },
@@ -2105,7 +2105,7 @@
         "tags": "dots, three, extra, new, options, ellipses, break, pause, suspense, see more, loading"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "mountain",
         "tags": "summit, climb, peak"
     },
@@ -2115,17 +2115,17 @@
         "tags": "arrows, directions, position, location, drag, cursor"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "mugshot",
         "tags": "person, photograph, picture, portrait, profile, user"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "multi-select",
         "tags": "layers, selection, list, files, multiple windows, tabs"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "music",
         "tags": "audio, video, note, sound"
     },
@@ -2135,42 +2135,42 @@
         "tags": "indent, down right, folder, click, next, forward, continue"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-comment",
         "tags": "comment, add, chat, speech, bubble, message, discussion, plus, create"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-drawing",
         "tags": "selection, area, highlight, sketch, entry, write, add pen, modify, writing"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-grid-item",
         "tags": "layout, arrangement, add, squares, target, microsoft, block, quadrant"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-layer",
         "tags": "levels, stack, cards, diamond, add plane"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-layers",
         "tags": "levels, stack, cards, create, plus, add"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-link",
         "tags": "create, add, plus, link, chain, insert"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-object",
         "tags": "create, add, plus, objects, circle, element, entity"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-person",
         "tags": "person, human, male, female, character, customer, individual, add, user, additional"
     },
@@ -2180,7 +2180,7 @@
         "tags": "instruction, direction, medicine, drug, medication, mixture, add, pharmacy"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "new-shield",
         "tags": "shield, new, add, marking"
     },
@@ -2200,22 +2200,22 @@
         "tags": "mathematical, equations, expression, formula, compare, comparison, neq"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "notifications",
         "tags": "bell, alarm, notice, warning, alert"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "notifications-add",
         "tags": "notification, plus, new, alert"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "notifications-snooze",
         "tags": "information, message, suppress"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "notifications-updated",
         "tags": "bell, alarm, alert, notice, warning, resolve, approve, confirm, check, clear, read, configured, acknowledge, ack"
     },
@@ -2235,12 +2235,12 @@
         "tags": "shape, 3d, object, box, container, view"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "office",
         "tags": "building, business, location, street"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "offline",
         "tags": "circle, lightning, disconnected, down, flash, quick, charger, download, electricity, power, voltage, lightning bolt, charging"
     },
@@ -2255,12 +2255,12 @@
         "tags": "layout, columns, switch, change, one, left, exit, collapse"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "one-to-many",
         "tags": "object, relation, ontology, branch, fork, split, usb, network, lineage"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "one-to-one",
         "tags": "object, relation, ontology, link, connect, join, edge, nodes"
     },
@@ -2285,7 +2285,7 @@
         "tags": "output, right, arrow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "package",
         "tags": "product, box, parcel, delivery, container, carton, archive"
     },
@@ -2325,7 +2325,7 @@
         "tags": "text, chapter, division, part"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "paste-variable",
         "tags": "paste, clipboard, variable"
     },
@@ -2335,7 +2335,7 @@
         "tags": "hierarchy, trail, steps, sort, contour, ladder, zipper, drill down, hierarchy"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "path-search",
         "tags": "map, magnifying glass, position, location, locate"
     },
@@ -2355,42 +2355,42 @@
         "tags": "modulo, modulus, fraction, statistics"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "person",
         "tags": "human, male, female, character, customer, individual"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "phone",
         "tags": "telephone, call, ring"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "phone-call",
         "tags": "phone, call, talk"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "phone-forward",
         "tags": "phone, call, forward"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "phone-search",
         "tags": "investigate, inspect, phone, magnify"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "pie-chart",
         "tags": "circle, part, section, chart, visualization"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "pill",
         "tags": "label, capsule, medicine, health, drug, pharmaceutical"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "pin",
         "tags": "map, position, safety pin, attach, thubtack, sharp, push pin, thumb tack"
     },
@@ -2415,7 +2415,7 @@
         "tags": "player, media, controls, digital, analogue, film, audio, video, triangle, right triangle, start"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "playbook",
         "tags": "strategy, play, plan, course of action, map, navigate"
     },
@@ -2425,7 +2425,7 @@
         "tags": "sign, add, maximize, zoom in, append, enlarge, increase"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "polygon-filter",
         "tags": "shape, form, graph, polygon, area, boundary"
     },
@@ -2440,7 +2440,7 @@
         "tags": "button, on, off, toggle"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "predictive-analysis",
         "tags": "analysis, investigation, search, study, test, brain"
     },
@@ -2450,17 +2450,17 @@
         "tags": "instruction, direction, medicine, drug, medication, mixture, reaction, pharmacy"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "presentation",
         "tags": "display, present, demo, show, canvas, dashboard"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "print",
         "tags": "printer, paper, send to printer"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "projects",
         "tags": "drawer, sections, files, open, directory, folder, filing"
     },
@@ -2485,7 +2485,7 @@
         "tags": "medical, life, heartbeat, hospital, heart, graph, stock, trend, heart beat, alert, health"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "rain",
         "tags": "precipitation, storm, weather, forecast, cloud"
     },
@@ -2495,12 +2495,12 @@
         "tags": "arrows, aim, direction, change, shuffle, mix, swap"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "range-ring",
         "tags": "layer, map, reference, point, geography, distance, boundry"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "record",
         "tags": "player, media, controls, digital, analogue, film, audio, video, circle, dot, filled circle"
     },
@@ -2515,7 +2515,7 @@
         "tags": "card, horizontal, expand, tag, arrows, triangle brackets"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "rectangle",
         "tags": "block, area, shape"
     },
@@ -2605,12 +2605,12 @@
         "tags": "empty, circle, selection, hollow, empty, hole, disc, donut"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "rocket",
         "tags": "fly, space, launch, get started, kick off"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "rocket-slant",
         "tags": "fly, space"
     },
@@ -2640,7 +2640,7 @@
         "tags": "turn, anti clockwise, counterclockwise, left"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "route",
         "tags": "destination, travel, journey, road, transportation, directions, maps, navigation"
     },
@@ -2655,7 +2655,7 @@
         "tags": "communication, space, radar, sensor, airplane, wifi, data, gps, orbit, landing"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "saved",
         "tags": "document, check mark, tick, approval, checks complete, checklist, approved, verified, confirm, valid, save, finished, confirmation, validation, checked, approved, done, ready, completed, certificate"
     },
@@ -2665,22 +2665,22 @@
         "tags": "graph, diagram, data"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "search",
         "tags": "inspection, exploration, magnifying glass, find, help"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "search-around",
         "tags": "search, exploration, information, area, graph, link, connection, dot, network, links, connections, connect"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "search-template",
         "tags": "search, text, magnifying glass"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "search-text",
         "tags": "magnifying glass, exploration, see, zoom, finder, examine"
     },
@@ -2725,27 +2725,27 @@
         "tags": "layer, stack, drawer, move"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "send-message",
         "tags": "deliver, paper-airplane, post, mail"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "send-to",
         "tags": "circle, export, arrow, outside, external, pop out, open object, open item"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "send-to-graph",
         "tags": "transfer, move, arrow, nodes, insert graph"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "send-to-map",
         "tags": "transfer, move, location, direction, brochure, pamphlet"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "sensor",
         "tags": "sensor, detector, iot, wayside, alarm, device"
     },
@@ -2775,12 +2775,12 @@
         "tags": "timeseries, plot, line, data, chart, graph, find, investigate, inspect, finder, looker, trend, analyze"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "server",
         "tags": "environment, setup, network, IT, data, hosting, hardware"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "server-install",
         "tags": "environment, setup, network, IT, data, hosting, hardware"
     },
@@ -2790,7 +2790,7 @@
         "tags": "controls, knobs"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "shapes",
         "tags": "geometric, building blocks"
     },
@@ -2800,27 +2800,27 @@
         "tags": "square, arrow, export, open, new page, link, new window, new tab"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "shared-filter",
         "tags": "notification, contacts, funnel, people"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "shield",
         "tags": "protection, secure, security, safety, privacy, marking, control"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "ship",
         "tags": "transportation, boat, cruise, yacht, supply, supply chain, trip, shipping, ferry, coast guard"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "shop",
         "tags": "store, business, shopping"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "shopping-cart",
         "tags": "trolley, mall, online, store, business"
     },
@@ -2835,7 +2835,7 @@
         "tags": "communication, radio, mast, towers, find, telecom, broadcast"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "sim-card",
         "tags": "phone, cellular, sim, memory card, memory, encrypted file, document"
     },
@@ -2850,7 +2850,7 @@
         "tags": "cross mark, fail, delete, no, close, remove, x, cancel, exit"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "small-info-sign",
         "tags": "notification, information, circle, message, sign, info, tooltip"
     },
@@ -2940,22 +2940,22 @@
         "tags": "layout, change, two, break, divide, open, expand, bidirectional, arrows, rectangles, expanding, separate"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "sports-stadium",
         "tags": "stadium, sports"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "square",
         "tags": "empty, outline"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "stacked-chart",
         "tags": "bar chart, graph, statistics, summary"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "stadium-geometry",
         "tags": "shape, race track, ellipse, discorectangle, obround, round, oval, loop, track, home button"
     },
@@ -2990,7 +2990,7 @@
         "tags": "player, media, controls, digital, analogue, film, audio, video, box, square, error, not possible, blocked, shape, filled"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "stopwatch",
         "tags": "clock, day, hours, minutes, seconds, timer, time"
     },
@@ -3000,7 +3000,7 @@
         "tags": "typography, text, font-style, line, removed, letter"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "style",
         "tags": "visual style, editor, paint, paintbrush, color, add color, compose, draw, canvas"
     },
@@ -3040,22 +3040,22 @@
         "tags": "electrical, broken graph, off, disconnect, open, broken link, disconnected, circuit"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "symbol-circle",
         "tags": "shape, figure, dot, filled, period, spot"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "symbol-cross",
         "tags": "shape, figure, plus, health, first aid"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "symbol-diamond",
         "tags": "shape, figure, rhombus"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "symbol-rectangle",
         "tags": "filled shape, box"
     },
@@ -3065,17 +3065,17 @@
         "tags": "shape, figure, stop"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "symbol-triangle-down",
         "tags": "shape, figure, below, minimise, minimize, downward, arrow, dropdown indicator"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "symbol-triangle-up",
         "tags": "shape, figure, up, upvote, higher priority, arrow"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "syringe",
         "tags": "vaccine, medicine, medication, needle, hypodermic, vaccination, shots, injections"
     },
@@ -3085,42 +3085,42 @@
         "tags": "sync, storage, data, source, dataset, data source, index, rows, columns, agenda, list, spreadsheet, table, sheet, entry"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tag",
         "tags": "label, badge, identification"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tag-add",
         "tags": "release, publish, label, badge, identification, plus, create"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tag-promote",
         "tags": "release, label, badge, identification, upgrade, arrow, direction, next, forward"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tag-refresh",
         "tags": "release, evaluate, label, badge, identification, update, sync"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tag-undo",
         "tags": "release, label, badge, identification, revert, recall, back, cancel, reverse, revoke, rollback"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tags",
         "tags": "releases, labels, badges, identification, multiple, organization"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "take-action",
         "tags": "case, court, deal, gavel, judge"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tank",
         "tags": "automobile, vehicle, armored, military, army"
     },
@@ -3130,7 +3130,7 @@
         "tags": "location, pinpoint, scope, center"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "taxi",
         "tags": "transportation, car, move, police vehicle"
     },
@@ -3140,7 +3140,7 @@
         "tags": "person, people, teammate, team, sports"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "temperature",
         "tags": "thermometer, climate, weather"
     },
@@ -3200,12 +3200,12 @@
         "tags": "external, organization, organisation, network, public, access, social website, globe, global, internet"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "thumbs-down",
         "tags": "hand, dislike, bad"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "thumbs-up",
         "tags": "hand, like, ok, good, okay"
     },
@@ -3215,22 +3215,22 @@
         "tags": "mark, sign, ok, approved, success, check, done, complete, confirm"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tick-circle",
         "tags": "mark, sign, ok, approved, success, check"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "time",
         "tags": "clock, day, hours, minutes, seconds"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "timeline-area-chart",
         "tags": "graph, line, diagram, trend up, growth, increasing"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "timeline-bar-chart",
         "tags": "graph, bar, chart, histogram"
     },
@@ -3245,22 +3245,22 @@
         "tags": "graph, line, chart, line chart, upward trend, time series, line graph"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tint",
         "tags": "drop, color, coloration, hue, tear, rain, water, rain drop, droplet"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "torch",
         "tags": "light, flashlight, tool, hint, search, find"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tractor",
         "tags": "automobile, vehicle, farming, agriculture, plantation"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "train",
         "tags": "transportation, public, move, rail, subway"
     },
@@ -3270,12 +3270,12 @@
         "tags": "language, convert, character, mandarin, japanese, translation, conversion"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "trash",
         "tags": "bin, rubbish, junk, remove, delete, garbage"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "tree",
         "tags": "forest, wood, landmark, conifer"
     },
@@ -3290,12 +3290,12 @@
         "tags": "growth, incline, progress, stocks, stonks, increase, rise"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "trophy",
         "tags": "win, award, sport, trophy"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "truck",
         "tags": "automobile, vehicle, car, van, drive, ride, distance, navigation, directions"
     },
@@ -3305,7 +3305,7 @@
         "tags": "layout, columns, switch, change, two, forward, shift, open sidebar, move sidebar, sidebar"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "unarchive",
         "tags": "uncompress, unzip, unbundle, outbox, upload, save, store"
     },
@@ -3320,12 +3320,12 @@
         "tags": "back, cancel, reverse, revoke, rollback, revert"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "ungroup-objects",
         "tags": "split, divide, disconnect, separate, dots, more options, options"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "unknown-vehicle",
         "tags": "car, automobile, van, drive, ride, distance, navigation, directions, missing, mystery, question mark"
     },
@@ -3335,12 +3335,12 @@
         "tags": "unlink, link, property, connection"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "unlock",
         "tags": "disengage, disconnect, separate, open, unlocked, plaintext, authenticated, open lock, unsafe, editing"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "unpin",
         "tags": "map, position, safety pin, detach, version, pushpin, pin, thumbtack"
     },
@@ -3355,12 +3355,12 @@
         "tags": "time, recent, reload, successful, process complete, loading, reviewed"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "upload",
         "tags": "arrow, circle, up, transfer"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "user",
         "tags": "person, human, male, female, character, customer, individual, identity, profile"
     },
@@ -3390,7 +3390,7 @@
         "tags": "graph, histogram, decreasing, descending trend, decreasing trend, levels, chart, decrease, lower"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "vertical-distribution",
         "tags": "alignment, layout, position, focus, centered, focus mode, road"
     },
@@ -3400,12 +3400,12 @@
         "tags": "space, vertical, gap, in between, expand, grow, elevator, expand line, lift"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "video",
         "tags": "film, broadcast, television, play, youtube"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "virus",
         "tags": "doctor, medical, examination, disease, pandemic, sick, germ, covid, planet, explosion, black star"
     },
@@ -3425,12 +3425,12 @@
         "tags": "audio, video, speaker, music, sound, high, on, increase, loud"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "walk",
         "tags": "transportation, run, move, path, marching, going, person walking, march"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "warning-sign",
         "tags": "notification, warning, triangle, exclamation mark, sign, alert, caution"
     },
@@ -3445,7 +3445,7 @@
         "tags": "sea, ocean, tide, grass, water"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "widget",
         "tags": "square, corners, text box, fence, highlight area, select area, draw rectangle, grid, connection"
     },
@@ -3480,22 +3480,22 @@
         "tags": "wrap lines, wrap, text, arrow, return "
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "wrench",
         "tags": "tool, repair, spanner, work"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "wrench-redo",
         "tags": "maintenance, override, tool, repair, spanner, work, fix, forward, window"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "wrench-snooze",
         "tags": "maintenance, suppress, tool, repair, spanner, work, delay, window"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "wrench-time",
         "tags": "maintenance, tool, repair, spanner, work, clock, duration, window"
     },
@@ -3505,12 +3505,12 @@
         "tags": "currency, money, sign, japan, jpy"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "zoom-in",
         "tags": "search, magnifying glass, plus, find, new, zoom, magnify, enlarge"
     },
     {
-        "hasFilled": false,
+        "hasFilled": true,
         "iconName": "zoom-out",
         "tags": "search, magnifying glass, minus, remove"
     },
